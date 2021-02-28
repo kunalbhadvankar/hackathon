@@ -1,4 +1,7 @@
 
+.container1{
+    background:#555;
+}
 .row {
     display:flex;
     flex-wrap: wrap;
@@ -13,6 +16,7 @@
 .col-3 img{
     vertical-align:middle;
     width: 100%;
+    border:2px solid;
 }
 .container .row img{
     display:grid;
