@@ -115,16 +115,4 @@
 
 
 
-@media(max-width:768px){
-    .elementcontainer {
-        width:50%;
-        height: auto;
-        box-sizing: border-box;
-         vertical-align: left;
-    }
-    
-    .search{
-        
-        box-sizing: border-box;
-    }
-}
+
