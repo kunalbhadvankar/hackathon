@@ -1,4 +1,4 @@
-var data2 = `<div class="card"><img class="card-img" src="b/1.png" alt="" style="width: 200px; height: 200px ;"><div class="card-img-overlay"><h5 class="card-title">Title</h5><p class="card-text">Content</p></div><div class='content'>Rating</div></div>`
+var data2 = `<div class="card"><img class="card-img" src="b/res.jpeg" alt="" style="width: 200px; height: 200px ;"><div class="card-img-overlay"><h5 class="card-title">Title</h5><p class="card-text">Content</p></div><div class='content'>Rating</div></div>`
 
 var i, j;
 
