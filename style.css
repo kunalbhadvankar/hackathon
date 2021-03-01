@@ -8,6 +8,10 @@
     width: 100%;
     height: 100%;
 }
+.tabs{
+    height: 150px;
+    background:  rgb(207, 207, 41);
+}
 
 
 .tabs ul{
@@ -87,7 +91,7 @@
     
 }
 .container1{
-    background:#12232E;
+    background: black;
     
     
     
